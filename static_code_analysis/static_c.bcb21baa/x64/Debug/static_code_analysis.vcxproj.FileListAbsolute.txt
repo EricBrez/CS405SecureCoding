@@ -1,0 +1,2 @@
+C:\Users\Eric\source\SecureCoding\static_code_analysis\x64\Debug\static_code_analysis.exe.lastcodeanalysissucceeded
+C:\Users\Eric\source\SecureCoding\static_code_analysis\static_c.bcb21baa\x64\Debug\NativeCodeAnalysis.read.1.tlog

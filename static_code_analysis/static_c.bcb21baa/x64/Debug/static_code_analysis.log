@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Eric\source\SecureCoding\static_code_analysis\main.cpp(52,9): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+  C:\Users\Eric\source\SecureCoding\static_code_analysis\main.cpp(52,9):
+  __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+C:\Users\Eric\source\SecureCoding\static_code_analysis\main.cpp(129,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  static_code_analysis.vcxproj -> C:\Users\Eric\source\SecureCoding\static_code_analysis\x64\Debug\static_code_analysis.exe
+C:\Users\Eric\source\SecureCoding\static_code_analysis\main.cpp(42): warning C26495: Variable 'A::x' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\Eric\source\SecureCoding\static_code_analysis\main.cpp(66): warning C6386: Buffer overrun while writing to 'buf'.
+C:\Users\Eric\source\SecureCoding\static_code_analysis\main.cpp(127): warning C6282: Incorrect operator.

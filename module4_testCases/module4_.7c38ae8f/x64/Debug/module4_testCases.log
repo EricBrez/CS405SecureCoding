@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Eric\source\SecureCoding\module4_testCases\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+C:\Users\Eric\source\SecureCoding\module4_testCases\test.cpp(259,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+C:\Users\Eric\source\SecureCoding\module4_testCases\test.cpp(285,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file '/test.cpp')
+  
+  module4_testCases.vcxproj -> C:\Users\Eric\source\SecureCoding\module4_testCases\x64\Debug\module4_testCases.exe

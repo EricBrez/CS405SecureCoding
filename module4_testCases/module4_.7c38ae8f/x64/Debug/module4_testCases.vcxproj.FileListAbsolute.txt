@@ -1,0 +1,6 @@
+C:\Users\Eric\source\Secure Coding\module4_testCases\x64\Debug\gtest.pdb
+C:\Users\Eric\source\Secure Coding\module4_testCases\x64\Debug\gtest_main.pdb
+C:\Users\Eric\source\Secure Coding\module4_testCases\module4_.7c38ae8f\x64\Debug\module4_.CF04BE6C.Up2Date
+C:\Users\Eric\source\SecureCoding\module4_testCases\x64\Debug\gtest.pdb
+C:\Users\Eric\source\SecureCoding\module4_testCases\x64\Debug\gtest_main.pdb
+C:\Users\Eric\source\SecureCoding\module4_testCases\module4_.7c38ae8f\x64\Debug\module4_.CF04BE6C.Up2Date
